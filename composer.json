@@ -1,0 +1,11 @@
+{
+    "name": "doria/mvc_poo1",
+    "autoload": {
+        "psr-4": {
+            "App\\Controllers\\": "app/controllers",
+            "App\\Models\\": "app/models",
+            "Core\\Classes\\": "core/classes"
+        }
+    },
+    "require": {}
+}
